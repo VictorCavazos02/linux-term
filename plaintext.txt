@@ -1,1 +1,0 @@
-OpenSSL encryption is powerful.
